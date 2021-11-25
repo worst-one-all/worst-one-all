@@ -21,6 +21,7 @@
   <h2> Informações sobre mim: </h2>
   <ul>
     <li> Meu sistema operacional: <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> </li>
-    <li> Linguagens que tenho mais dominio:  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/> </li>  
+    <li> Linguagens que tenho mais dominio:  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/> </li> 
+    <li> Redes Sociais: <a href="https://www.instagram.com/worst_one_all/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> </li>
   </ul>
 </div>
