@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/worst-one-all">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=worst-one-all&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://pa1.narvii.com/6216/9f1c5a427c9e7f36b0ce12a5199f9b54fc82fa60_hq.gif">
+  <img height="180em" src="https://c.tenor.com/CiJuhjUFaeIAAAAC/gojo-satoru-jujutsu-kaisen.gif">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=worst-one-all&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
