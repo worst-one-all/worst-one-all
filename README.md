@@ -8,16 +8,6 @@
 </div>
   
 <div>
-  <h2> Estou iniciando na programação, atualmente estou estudando: </h2>
-  <ul>
-    <li> Javascript </li>
-    <li> PHP </li>
-    <li> HTML 5 </li>
-    <li> CSS 3 </li>
-  </ul>
-</div>
-  
-<div>
   <h2> Informações sobre mim: </h2>
   <ul>
     <li> Meu sistema operacional: <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> </li>
